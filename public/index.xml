@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Outline demo party</title>
+    <link>/</link>
+    <description>Recent content in Home on Outline demo party</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Compos</title>
+      <link>/compos/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/compos/</guid>
+      <description>COMPETITIONS Outline is an Atari party at heart, but all platforms are welcome to strut their stuff. These are the compo&amp;rsquo;s from 2023, still may be changing for 2024!
+Deadline Deadline for all compos is on TBD
+Acceptance of any prods after this deadline cannot be guaranteed and could only in theory be considered if the prod is delivered along with a 1280x720 video recording that works in VLC.
+Please send a video capture along with your entry, or a Dropbox (etc) link where we can grab the capture The aspect ratio of your file should be exactly 16:9, you are welcome to use padding to achieve this aspect ratio</description>
+    </item>
+    
+    <item>
+      <title>Location</title>
+      <link>/location/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/location/</guid>
+      <description>The address for the location is: Kampeerboerderij &amp;ldquo;de Arendshorst&amp;rdquo; Arendhorsterweg 1 7731 RC Ommen Check openstreetmap or google maps
+GPS : 52.52563546413736, 6.36783499278495
+By Car Get on the N340 from Zwolle to Ommen, and exit at this crossing. You will be driving towards the camera in this viewpoint. Then follow the &amp;ldquo;Hessenweg&amp;rdquo; towards Ommen for a few hundred meters until you see this crossing. The lack of pavement on the left is why you want to exit the N340 a bit earlier and the sign for &amp;ldquo;Kampeerboerderij de Arendshorst&amp;rdquo; correctly points to the right.</description>
+    </item>
+    
+    <item>
+      <title>Catering</title>
+      <link>/catering/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/catering/</guid>
+      <description>At Outline, besides the demoscene you can enjoy good food from our catering experts. Expect prices around € 15-20 per meal, as soon we have more detail we will anounce them here.
+Thursday May 9th
+TBD Friday May 10th
+TBD Saturday May 11th
+TBD </description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>/events/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/events/</guid>
+      <description>THURSDAY MAY 9th 16:00 DOORS OPEN Opening 18:00 FOOD 23:00 ACT FRIDAY MAY 10th 10:00 FOOD Breakfast 13:00 ACT 15:00 ACT 17:00 ACT . 19:00 FOOD 19:00 COMPO Music (all compos) 21:00 COMPO Graphics (all compos) 22:00 LIVE CODING Byte Jam 23:00 ACT SATURDAY MAY 11th 10:00 FOOD Breakfast 15:00 ACT Numtek 17:00 ACT 18:00 FOOD 18:00 COMPO 19:00 ACT 21:00 COMPO Executable compos (256b) 22:00 COMPO Executable compos (128b) 23:00 COMPO Executable compos (Demos) 23:30 COMPO Prizegiving SUNDAY MAY 12st 10:00 FOOD Breakfast 12:00 DOORS CLOSE GTFO OR HELP CLEANING </description>
+    </item>
+    
+    <item>
+      <title>Register</title>
+      <link>/register/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/register/</guid>
+      <description>REGISTER NOW FOR YOUR PARTY TICKET ! The price for a regular ticket in presale is € 80 euro and at the door it will be € 90 euro. The price for a single night ticket (12:00-0:00) at the door will be € 40 euro if we have any beds left come partytime. These tickets include access to all facilities available for the party, a bed to sleep in, a complimentary simple breakfast, tea, coffee, and a cool drink when you arrive at our bar.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Contact This demoparty is orginised by a lot of volunteers, we use discord to communicate. Join us at :
+Outline Discord</description>
+    </item>
+    
+  </channel>
+</rss>

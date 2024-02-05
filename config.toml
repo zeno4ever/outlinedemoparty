@@ -1,0 +1,23 @@
+baseurl = "/"
+title = "Outline demo party"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "outline-mainroad"
+
+[Params]
+  copyright = "Outline" # Footer copyright holder, otherwise will use site title
+  toc = true # Enable Table of Contents
+  dateformat = "2006-01-02" # Change the format of dates
+  googleFontsLink = "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap"
+
+[Params.style.vars]
+  highlightColor = "#3333ff" # Override highlight color
+  fontFamilyPrimary = "'Roboto', sans-serif"
+  fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+
+[Params.logo]
+  image = "/image/outline-logo.png"
+  title = "OUTLINE DEMOPARTY"
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
