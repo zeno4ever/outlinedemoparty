@@ -11,6 +11,8 @@ toc: false
 
 ## Contact
 
-This demoparty is orginised by a lot of volunteers, we use discord to communicate. Join us at :
+### Legal data :
 
-[Outline Discord](https://discord.gg/vTGmz77ddt)
+* Orginized by : Stichting MakeFest
+* KvK : 91518296
+* BTW nr : NL865680668B01

@@ -11,10 +11,8 @@ toc: false
 
 ## REGISTER NOW FOR YOUR PARTY TICKET !
 
-The price for a regular ticket in presale is € 80 euro and at the door it will be € 90 euro.
-The price for a single night ticket (12:00-0:00) at the door will be € 40 euro if we have any beds left come partytime.
-These tickets include access to all facilities available for the party, a bed to sleep in, a complimentary simple breakfast, tea, coffee, and a cool drink when you arrive at our bar.
+We are still looking into the exact prices and type of tickets for 2024. We have a new organisation so things might be done different this year.
 
-The price for a dayticket at the door is € 25 euro for adults and € 10 euro for minors. The dayticket does not include food, a bed or free drink but gives you access to all other facilities available to the party between 10:00 and 12:00.
+For 2023 full tickes were  € 80 in presale and € 90 at the door. We still considering daytickets but aren't sure yet if we going to offer them this year.  These tickets include a sleeping place and breakfest.
 
-Please check out the catering page when it becomes available for details, availability and pricing of food tickets. You can purchase an entrance ticket now and add a food ticket later.
+Seperate of the tickets we sold dinner tickets, they were around € 15-20 per dinner.
