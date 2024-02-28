@@ -13,34 +13,26 @@ These are the compo's from 2023, still may be changing for 2024!
 
 ## Deadline
 
-Deadline for all compos is on TBD
+Deadline for all compos is on 
 
 Acceptance of any prods after this deadline cannot be guaranteed and could only in theory be considered if the prod is delivered along with a 1280x720 video recording that works in VLC.
 
 
-### Please send a video capture along with your entry, or a Dropbox (etc) link where we can grab the capture
+## Please send a video capture along with your entry, or a Dropbox (etc) link where we can grab the capture
 
-The aspect ratio of your file should be exactly 16:9, you are welcome to use padding to achieve this aspect ratio
-
-We will show your entry in 1280x720 at 60fps using OBS' built-in scaling filter
-
-We will show your entry scaled up to 1920x1080 at it's original framerate at the partyplace if it's a framerate our beamer supports (50hz is possible)
-
-Raw capture of the prod only (except in Wild compo)
-
-Do not manipulate your recording for performance
-
-We reserve the right to disqualify recordings that do not realistically represent how its executable demo or intro counterpart runs on real hardware.
-Examples of editing actions that could lead to disqualification:
-
-Unrealistic emulator settings during recording, sped up recordings, removing or cutting down precalculation or loading screens.
-Examples of editing actions that are encouraged:
-
-Cutting footage before the prod is launched, cutting footage after the prod ends, loops or becomes repetitive, scaling and padding your recording to 1920x1080 or 1280x720.
-Multiple entries per compo are allowed
-
-You are welcome to send more than one entry for a compo.
-We will use Wuhu as partysystem
+* The aspect ratio of your file should be exactly 16:9, you are welcome to use padding to achieve this aspect ratio
+* We will show your entry in 1280x720 at 60fps using OBS' built-in scaling filter
+* We will show your entry scaled up to 1920x1080 at it's original framerate at the partyplace if it's a framerate our beamer supports (50hz is possible)
+* Raw capture of the prod only (except in Wild compo)
+* Do not manipulate your recording for performance
+* We reserve the right to disqualify recordings that do not realistically represent how its executable demo or intro counterpart runs on real hardware. 
+* Examples of editing actions that could lead to disqualification:
+* Unrealistic emulator settings during recording, sped up recordings, removing or cutting down precalculation or loading screens.
+* Examples of editing actions that are encouraged:
+* Cutting footage before the prod is launched, cutting footage after the prod ends, loops or becomes repetitive, scaling and padding your recording to 1920x1080 or 1280x720.
+* Multiple entries per compo are allowed
+* You are welcome to send more than one entry for a compo.
+* We will use Wuhu as partysystem
 
 Soon a link to our partysystem will appear here. You will be able to submit your entry in our partysystem, also as remote competitor.
 
@@ -49,12 +41,13 @@ Soon a link to our partysystem will appear here. You will be able to submit your
 If we get a suggestion for a compo and entries from at least 3 participants we'll be happy to discuss further details about the compo with you.
 
 
-## General rules
+# General rules
 
 Outline has traditionally offered a wide variety of competitions, in 2023 we have limited the line-up to demo, 128 byte intro, 256 byte intro, music, graphics, photo and animation (some of these with subcategories). All these competitions are multi-platform.
 
 * Don't be an idiot. Don't break any Dutch laws, respect copyright law and don't cheat.
-* Anyone is allowed to participate in our compos, also remotely. Please send your entries to compos@outlinedemoparty.nl (online upload will be announced later). Supply all relevant details regarding platform, format, etc. Optionally, you may supply a description to be shown before your entry is played.* * Only previously unreleased work may be entered into the competitions.
+* Anyone is allowed to participate in our compos, also remotely. Please send your entries to TBD. Supply all relevant details regarding platform, format, etc. Optionally, you may supply a description to be shown before your entry is played.
+ * Only previously unreleased work may be entered into the competitions.
 * Competitions can be merged, split, or cancelled at the compo team's discretion. However, we will try to seek agreement from the involved creators if feasible. Rule of thumb is that at least three entries are required for a compo to be held.
 * Technical details, formats and platforms for entries will be announced before screening.
 * Please supply a link to a video capture for any real-time entries - regardless of platform. If you're unable to provide one, please let us know beforehand. Similarly, participants in the music competition are requested to supply MP3 or OGG renditions in case of non-modern or uncommon formats.
@@ -98,7 +91,7 @@ Outline has traditionally offered a wide variety of competitions, in 2023 we hav
 * Multichannel modules (XM, IT, S3M) will be played using default XMPlay settings (sinc interpolation, sensitive ramping, 50% stereo separation). MOD files will be played with interpolation and ramping disabled, and 50% stereo separation. If you need other playback settings for your module, please specify.
 * Maximum playtime is 4 minutes. Longer entries may be faded out.
 
-### Graphics competitions
+## Graphics competitions
 
 * Please specify clearly in the public comment field of your entry on our partysystem exactly which tools (including AI) you used to create the image.
 * Entries for all platforms and of any resolution and colour depth are accepted, including executable graphics.
@@ -130,7 +123,7 @@ Outline has traditionally offered a wide variety of competitions, in 2023 we hav
 * Please specify whether your entry is a 'pure' photo, retouched, or a collage.
 * In case of major editing and/or compositing we may decide to move your entry to the Freestyle graphics competition.
 
-### Miscellaneous competitions
+## Miscellaneous competitions
 ### Animation/Wild
 
 * This competition is for non-realtime entries: videos, rendered animations, etc.
