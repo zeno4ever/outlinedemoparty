@@ -9,13 +9,15 @@ weight: 110
 toc: false 
 ---
 
-At Outline, besides the demoscene you can enjoy good food from our catering experts. Expect prices around € 15-20 per meal, as soon we have more detail we will anounce them here.
+At Outline, besides the demoscene you can enjoy good food from our catering experts. The food on Friday and Saturday will be cooked by chefs Duckzors and EAT-DRINK-FUCK of Poo Brain.
 
-Thursday May 9th
-* TBD
+Want to join us [register](/register) yourself and fill in the form accordingly. If you want vegitarian options we offer these to, check this option in the form.
 
-Friday May 10th
-* TBD
+### Thursday May 9th
+* Chinese / Indonesian rice table ( € 15,=) (external catering)
 
-Saturday May 11th
-* TBD
+### Friday May 10th
+* Friday : Chana Korma from Base Gravy, Coriander Chutney, Mango Chutney, Rice ( € 15,= )
+
+### Saturday May 11th
+* Saturday : Chili Con Carne or Chili Sin Carne with side dishes ( € 10,= )

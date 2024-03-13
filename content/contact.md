@@ -11,8 +11,10 @@ toc: false
 
 ## Contact
 
+You can email us at : contact [at] outlinedemoparty [dot] nl
+
 ### Legal data :
 
-* Orginized by : Stichting MakeFest
+* Organized by : Stichting MakeFest
 * KvK : 91518296
 * BTW nr : NL865680668B01
