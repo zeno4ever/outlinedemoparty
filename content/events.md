@@ -8,6 +8,9 @@ menu: main
 weight: 120
 toc: false 
 ---
+
+Whole program still under development, as indication this was the program from 2023
+
 # THURSDAY MAY 9th
 
 * 16:00                        	DOORS OPEN                        	Opening                       
@@ -29,7 +32,7 @@ toc: false
 # SATURDAY MAY 11th
 
 * 10:00                        	FOOD                        	Breakfast                        
-* 15:00 	ACT 	Numtek
+* 15:00 	ACT 	
 * 17:00 	ACT 	
 * 18:00 	FOOD 	
 * 18:00 	COMPO 	

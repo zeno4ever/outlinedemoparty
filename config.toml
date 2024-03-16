@@ -19,5 +19,24 @@ theme = "outline-mainroad"
   image = "/image/outline-logo.png"
   title = "OUTLINE DEMOPARTY"
 
+[Params.widgets.social]
+  # Enable parts of social widget
+  facebook = "outlinedemoparty"
+  twitter = "OutlineParty"
+  instagram = "outline_demoparty"
+  #linkedin = "username"
+  #telegram = "username"
+  #github = "username"
+  #gitlab = "username"
+  #bitbucket = "username"
+  email = "contact@outlinedemoparty"
+
+# Custom social links
+[[Params.widgets.social.custom]]
+  title = "Youtube"
+  url = "https://youtube.com/user/username"
+  icon = "youtube.svg" # Optional. Path relative to "layouts/partials"
+  rel = "noopener noreferrer" # Set to false to remove the rel attribute
+
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
