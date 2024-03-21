@@ -11,6 +11,9 @@ weight: 1
 
 # OUTLINE 2024
 
+<img style="display:block; margin: 10px auto 10px;" src="/image/outline2024bymaali.jpg" width=80% >
+<p>
+
 ## May 9-12 2024 (Ascension day weekend)
 
 Holland's longest running annual demoscene event offering DJs and live acts, competitions for all platforms, free breakfast, tea and coffee, live coding sessions, and craptastic prize giving ceremonies at sunday 11:30
@@ -19,7 +22,7 @@ Outline 2024 is a demo party, an event which takes place over the course of seve
 
 Outline started in 2004 as a party organised by and for the Atari demo scene to coincide with Breakpoint (one of the largest demo scene events held annually in Germany). Word got out and the unique atmosphere started attracting people from other platforms. Today, Outline remains an Atari party at heart but welcomes all platforms to mingle, agree and disagree.
 
-This year we will have a new main orginizer and a new team.
+This year we will have a new main organizer and a new team.
 
 
 # NEWS ABOUT THE PARTY
@@ -32,7 +35,8 @@ The visitor fridge will not be open until after the party's groceries have been 
 
 Park your car in the blue area, park in the yellow area if you have a camper:
 
-![Parking at Outline](/image/parking.png)
+<img style="display:block; margin: 10px auto 10px;" src="/image/parking.png" width=80% >
+<p>
 
 If you have a lot of materials to unload please park in the car park, then come check if there are any other vehicles unloading and which door you want to unload at, and only come driving around the back of the party hall when you have verified that you won't obstruct or drive over any person, animal or materials.
 

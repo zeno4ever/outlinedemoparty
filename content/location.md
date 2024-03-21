@@ -38,9 +38,9 @@ Free and plentiful parking is available right next to the party location. Please
 
 ## By train/plane/taxi
 
-Make your way to Ommen train station. You can book a [OV Taxi](https://ov.taxi/) to the location from the station for around € 15,00 for up to 3 persons. It is recommended to do this in advance of your journey.
+Make your way to Ommen train station. You can book a [OV Taxi](https://ov.taxi/) to the location from the station for around € 20,00 for up to 3 persons. It is recommended to do this in advance of your journey.
 
 
 ## Renting a OV bicycle
 
-If you already have an "OV-chipkaart" you can use [OV Fiets](https://www.ns.nl/en/door-to-door/ov-fiets) to rent a bicycle for € 4,15 per 24h. You can use the same site to obtain an "OV-chipkaart" and you can use this site to check how many bikes are currently available at Station Ommen.
+If you already have an "OV-chipkaart" you can use [OV Fiets](https://www.ns.nl/en/door-to-door/ov-fiets) to rent a bicycle for € 4,55 per 24h. You can use the same site to obtain an "OV-chipkaart" and you can use this site to check how many bikes are currently available at Station Ommen.

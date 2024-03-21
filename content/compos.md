@@ -86,7 +86,7 @@ Images will otherwise be upscaled with nearest-neighbour to best fit 1920x1080 a
 ### Atari ST/STE graphics
 
 * Resolution of your single frame picture must be 320x200
-Maximum amount of colours you can use is 16
+* Maximum amount of colours you can use is 16
 * You can use the ST (512 colours 3:3:3) or STE mode (4096 colours 4:4:4)
 * Please submit a centered nearest-neighbour upscaled PNG in 1920x1080 with a border otherwise we will try our best.
 
