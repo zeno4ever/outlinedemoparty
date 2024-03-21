@@ -18,3 +18,11 @@ Who is coming to Outline? Check out if your friends are also coming!
 * TôBach/Slipstream^RiFT^Poo-Brain^TUHB^FTG
 * havoc
 * datucker / rabenauge
+* F#READY
+* Beetle / Cyanoacrylate Dreams
+* Anus / deFEEST
+* DeFEEST
+* Cinder/deFEEST
+* wurstgetrank/Poo-brain
+* Duckz0rs/Poo-Brain
+* dvanzuijlekom / deFEEST
