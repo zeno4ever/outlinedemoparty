@@ -53,3 +53,4 @@ Sleeping facilities at this location are bunkbeds. In the area around the locati
 ## Outline 2023
 
 Never been to Outline or missed our party in 2023? Check out this nice aftermovie Cmdr.Homer made at last years party! 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H19nTrXQ63w?si=VnV5OGqvJNkxdOE7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
