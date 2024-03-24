@@ -28,3 +28,6 @@ Who is coming to Outline? Check out if your friends are also coming!
 * dvanzuijlekom / deFEEST
 * Rick B / Poo-Brain
 * Cmdr.Homer/JML^Wildfurs
+* Glu Wildfurs
+* LamerDeluxe / Trepaan
+* Numtek^Guideline
