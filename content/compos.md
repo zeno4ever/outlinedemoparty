@@ -10,7 +10,7 @@ weight: 90
 # COMPETITIONS
 Outline is an Atari party at heart, but all platforms are welcome to strut their stuff.
 
-## Deadline is May 18th 2024, at midnight (CEST)
+## Deadline for all compo entries is May 18th 2024, at midnight (CEST)
 
 Acceptance of any prods after this deadline cannot be guaranteed and could only in theory be considered if the prod is delivered along with a 1280x720 video recording that works in VLC.
 
@@ -30,7 +30,7 @@ If we get a suggestion for a compo and entries from at least 3 participants we'l
 * The compo team reserves the right to apply preselection in case of large numbers of entries, or to filter out troll/low-effort entries. Entries not shown in the competitions will not be released by Outline.
 * The compo team has the final word on things. We are reasonable people though, so we will do our best to be of help!
 * The maximum size for entry uploads to our partysystem is 512MB. If you wish to submit a larger file, please upload it elsewhere and upload the link in a text file or the comments on our partysystem.
-* The submission deadline for all entries is Thursday evening, May 18th 2024, at midnight (CEST).
+* The submission deadline for all compo entries is Thursday evening, May 18th 2024, at midnight (CEST).
 
 ### Compo Machine:
 
@@ -45,9 +45,9 @@ If we get a suggestion for a compo and entries from at least 3 participants we'l
 * We accept entries for any platform - PC, Atari, Amiga, C64, ZX Spectrum, MSX, plotters, fridges, etc. etc
 * Entries can be submitted under Oldskool and Newskool in all executable competitions. 
 * If there are not enough entries in either category they'll be joined into a single competition.
-* General rule for Oldskool are old machines and for Newskool is modern machines and fantasy consoles
+* General rule for Oldskool are old machines and for Newskool is modern machines and fantasy consoles.
 * If you're not sure if your entry should be submitted under old or new contact the organisers.
-* Multiple entries per compo are allowed
+* Multiple entries per compo are allowed.
 * Videocaptures that are not supplied in 1920x1080 will be upscaled to 1920x1080 while maintaining aspect ratio and any unused areas will be filled with black.
 * Do not manipulate your recording for performance. When in doubt we will disqualify.
 
@@ -85,9 +85,9 @@ Images will otherwise be upscaled with nearest-neighbour to best fit 1920x1080 a
 
 ### Atari ST/STE graphics
 
-* Resolution of your single frame picture must be 320x200
-* Maximum amount of colours you can use is 16
-* You can use the ST (512 colours 3:3:3) or STE mode (4096 colours 4:4:4)
+* Resolution of your single frame picture must be 320x200.
+* Maximum amount of colours you can use is 16.
+* You can use the ST (512 colours 3:3:3) or STE mode (4096 colours 4:4:4).
 * Please submit a centered nearest-neighbour upscaled PNG in 1920x1080 with a border otherwise we will try our best.
 
 ### Freestyle Graphics
