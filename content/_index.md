@@ -16,13 +16,13 @@ weight: 1
 
 ## May 9-12 2024 (Ascension day weekend)
 
-Holland's longest running annual demoscene event offering DJs and live acts, competitions for all platforms, great dinner and beds at location, free breakfast, tea and coffee, live coding sessions and craptastic prize giving ceremonies at Sunday 11:30.
+Holland's longest running annual demoscene event offers DJs and live acts, competitions for all platforms, great dinner and beds at location, free breakfast, tea and coffee, live coding sessions and craptastic prize giving ceremonies at Sunday 11:30. 
 
 Outline 2024 is a demo party, an event which takes place over the course of several days. It is a place where people compete, and celebrate the creative use of computers. If this is your first encounter with Outline or demo parties in general, you would do well to read up on the matter on [wikipedia](https://en.wikipedia.org/wiki/Demoscene).
 
 Outline started in 2004 as a party organised by and for the Atari demo scene to coincide with Breakpoint (one of the largest demo scene events held annually in Germany). Word got out and the unique atmosphere started attracting people from other platforms. Today, Outline remains an Atari party at heart but welcomes all platforms to mingle, agree and disagree.
 
-This year we will have a new main organizer and a new team! Let us introduce to you the core-team for 2024: Zeno4ever - Main orga  Wurstgetrank - Number Two  Harekiet - Compo’s  Cookie - Chef bar  EAT-DRINK-FUCK - Kitchen chef  Duckz0rs - Kitchen chef  Datucker - DJ’s  BEFTEX - Promo  
+This year we will have a new main organizer and a new team! Let us introduce to you the core-team for 2024: **Zeno4ever** - Main orga  **Wurstgetrank** - Number Two  **Harekiet** - Compo’s  **Cookie** - Chef bar  **EAT-DRINK-FUCK** - Kitchen chef  **Duckz0rs** - Kitchen chef  **Datucker** - DJ’s  **BEFTEX** - Promo  
 
 
 # NEWS ABOUT THE PARTY
@@ -49,3 +49,7 @@ Having said that- Looking forward to seeing you in Ommen this Ascension day week
 The location for Outline is Kampeerboerderij De Arendshorst in Ommen, The Netherlands. Surrounded by a classic Dutch, flat green landscape. 
 
 Sleeping facilities at this location are bunkbeds. In the area around the location you can find a plethora of alternative accomodation options. Sleeping in tents at the facility itself is possible only for a very small amount of 1-person tents and therefore not offered as a booking option at this moment. Sleeping in cars, vans or campervans is possible for no extra fee on the facility's parking lot.
+
+## Outline 2023
+
+Never been to Outline or missed our party in 2023? Check out this nice aftermovie Cmdr.Homer made at last years party! 
