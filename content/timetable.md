@@ -1,5 +1,5 @@
 ---
-title: Events
+title: Timetable
 date: 2023-01-01T00:00:00+02:00
 nodateline: true
 noprevnext: true
