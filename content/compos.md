@@ -14,7 +14,7 @@ Outline is an Atari party at heart, but all platforms are welcome to strut their
 
 Acceptance of any prods after this deadline cannot be guaranteed and could only in theory be considered if the prod is delivered along with a 1280x720 video recording that works in VLC.
 
-Soon a link to our partysystem will appear here. You will be able to submit your entry in our partysystem, also as remote competitor.
+Soon a link to our partysystem will appear here. You will be able to submit your entry in our partysystem, also as remote competitor. For remote participation you don't need to buy a ticket.
 
 ### Think we should add a compo?
 

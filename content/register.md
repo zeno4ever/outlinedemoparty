@@ -13,7 +13,7 @@ toc: false
 
 ### Prices
 
-* Regular ticket € 80 including breakfast and a bunk bed.
+* Regular ticket € 80 including breakfast and a bunk bed. (€100 at the door)
 * Day ticket € 35 excluding breakfast and a bunk bed.
 * Foodticket Thursday/Friday € 15, Saturday € 10
 * Drink card with 10 consumptions € 15 (can also be bought during Outline itself)
