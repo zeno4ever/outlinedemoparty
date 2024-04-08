@@ -10,7 +10,7 @@ weight: 90
 # COMPETITIONS
 Outline is an Atari party at heart, but all platforms are welcome to strut their stuff.
 
-## Deadline for all compo entries is May 18th 2024, at midnight (CEST)
+## Deadline for all compo entries is May 8th 2024, at midnight (CEST)
 
 Acceptance of any prods after this deadline cannot be guaranteed and could only in theory be considered if the prod is delivered along with a 1280x720 video recording that works in VLC.
 
@@ -30,7 +30,7 @@ If we get a suggestion for a compo and entries from at least 3 participants we'l
 * The compo team reserves the right to apply preselection in case of large numbers of entries, or to filter out troll/low-effort entries. Entries not shown in the competitions will not be released by Outline.
 * The compo team has the final word on things. We are reasonable people though, so we will do our best to be of help!
 * The maximum size for entry uploads to our partysystem is 512MB. If you wish to submit a larger file, please upload it elsewhere and upload the link in a text file or the comments on our partysystem.
-* The submission deadline for all compo entries is Thursday evening, May 18th 2024, at midnight (CEST).
+* The submission deadline for all compo entries is Thursday evening, May 8th 2024, at midnight (CEST).
 
 ### Compo Machine:
 

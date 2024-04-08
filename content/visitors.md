@@ -32,3 +32,15 @@ Who is coming to Outline? Check out if your friends are also coming!
 * Glu Wildfurs
 * LamerDeluxe / Trepaan
 * Numtek^Guideline
+* The Bear, from Poo-Brain
+* 42Bastian
+* Harekiet
+* vinnie
+* anmaja
+* xxx
+* Leni
+* oak / PONR
+* Roeltje / Poo-Brain
+* Superogue ^ Marquee Design
+* Rho / Trepaan
+* Blossom / Trepaan
