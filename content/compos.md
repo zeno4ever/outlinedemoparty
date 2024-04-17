@@ -16,6 +16,8 @@ Acceptance of any prods after this deadline cannot be guaranteed and could only 
 
 Soon a link to our partysystem will appear here. You will be able to submit your entry in our partysystem, also as remote competitor. For remote participation you don't need to buy a ticket.
 
+You can send your remote entry via [wuhu](https://party.outlinedemoparty.nl/)
+
 ### Think we should add a compo?
 
 If we get a suggestion for a compo and entries from at least 3 participants we'll be happy to discuss further details about the compo with you.

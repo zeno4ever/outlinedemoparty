@@ -44,3 +44,4 @@ Who is coming to Outline? Check out if your friends are also coming!
 * Superogue ^ Marquee Design
 * Rho / Trepaan
 * Blossom / Trepaan
+* Gasman / H-Prg^Wavesitter
