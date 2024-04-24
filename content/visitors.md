@@ -45,3 +45,16 @@ Who is coming to Outline? Check out if your friends are also coming!
 * Rho / Trepaan
 * Blossom / Trepaan
 * Gasman / H-Prg^Wavesitter
+* KLANDOX Poo-Brain^TURBOANALISIS
+* Tropical Trevor/Poo-Brain
+* Topy
+* RaccoonViolet / SLP^SVatG^FTG
+* RoccoW / Poo-Brain
+* Nodepond
+* BioDwarf / Poo-Brain
+* NR4/Team210
+* Deyta / Cyanoacrylate Dreams^FTG
+* bod / ATW^CN112^Team210
+* juvi / epoqe^Team210
+* Stranger/Hemoroids^Rebels^DLG (remote)
+* kaomau^Wursthupe

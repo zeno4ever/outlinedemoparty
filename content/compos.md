@@ -12,9 +12,9 @@ Outline is an Atari party at heart, but all platforms are welcome to strut their
 
 ## Deadline for all compo entries is May 8th 2024, at midnight (CEST)
 
-Acceptance of any prods after this deadline cannot be guaranteed and could only in theory be considered if the prod is delivered along with a 1280x720 video recording that works in VLC.
+Acceptance of any prods after this deadline cannot be guaranteed and could only in theory be considered if the prod is delivered along with a perferable 1920x1080 or else 1280x720 video recording that works in VLC.
 
-Soon a link to our partysystem will appear here. You will be able to submit your entry in our partysystem, also as remote competitor. For remote participation you don't need to buy a ticket.
+You will be able to submit your entry in our partysystem, also as remote competitor. For remote participation you don't need to buy a ticket.
 
 You can send your remote entry via [wuhu](https://party.outlinedemoparty.nl/)
 
@@ -24,7 +24,7 @@ If we get a suggestion for a compo and entries from at least 3 participants we'l
 
 # General Rules
 
-* Anyone is allowed to participate in our compos and we welcome remote entries which can submitted through [a url that we announce  soonTM]
+* Anyone is allowed to participate in our compos and we welcome remote entries which can submitted through [wuhu](https://party.outlinedemoparty.nl/)
 * Only previously unreleased work may be entered into the competitions.
 * Use common sense, don’t break any Dutch laws, respect copyright law and don’t cheat.
 * Competitions can be merged, split, or cancelled at the compo team’s discretion. However, we will try to seek agreement from the involved creators if feasible. Rule of thumb is that at least three entries are required for a compo to be held.
@@ -75,7 +75,7 @@ If we get a suggestion for a compo and entries from at least 3 participants we'l
 * Entries for any platform and of any format (streaming, module, executable, chip) are accepted.
 * Please specify the format of your entry in the partysystem’s comment field.
 * Original works only: remixes, covers and previously released songs will not be accepted.
-* All entries will be played with the latest version of XMPlay (version 3.8.4).
+* All entries will be played with the latest version of XMPlay (version 3.8.5).
 * If you’re submitting an entry in a format not supported out-of-the-box by XMPlay, please also provide an MP3 or OGG version alongside the original file.
 * Multichannel modules (XM, IT, S3M) will be played using default XMPlay settings (sinc interpolation, sensitive ramping, 50% stereo separation). MOD files will be played with interpolation and ramping disabled, and 50% stereo separation. If you need other playback settings for your module, please specify.
 * Maximum playtime is 4 minutes. Longer entries may be faded out.
