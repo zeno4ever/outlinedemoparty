@@ -27,6 +27,10 @@ This year we will have a new main organizer and a new team! Let us introduce to 
 
 # NEWS ABOUT THE PARTY
 
+Remote participation is open! 
+submit your entries for *free* via wuhu. Check out 'COMPOS'for details, rules and login. 
+We're looking forward to your creations! 
+
 ### Before you travel to the party
 
 To make use of the beds at the facility, you must bring your own sheet and blanket or sleepingbag. Just a blanket or sleepingbag is not enough, the sheet is obligatory for every visitor.
