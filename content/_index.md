@@ -28,7 +28,7 @@ This year we will have a new main organizer and a new team! Let us introduce to 
 # NEWS ABOUT THE PARTY
 
 Remote participation is open! 
-submit your entries for *free* via wuhu. Check out 'COMPOS'for details, rules and login. 
+Submit your entries for *free* via wuhu. Check out 'COMPOS' for details, rules and login. 
 We're looking forward to your creations! 
 
 ### Before you travel to the party
