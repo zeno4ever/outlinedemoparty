@@ -58,3 +58,7 @@ Who is coming to Outline? Check out if your friends are also coming!
 * juvi / epoqe^Team210
 * Stranger/Hemoroids^Rebels^DLG (remote)
 * kaomau^Wursthupe
+* dojoe
+* TMC. / ROLE
+* aldroid / slipstream
+* Mrs Beanbag / Slipstream ^ Rift

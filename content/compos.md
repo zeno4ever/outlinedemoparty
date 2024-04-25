@@ -14,7 +14,7 @@ Outline is an Atari party at heart, but all platforms are welcome to strut their
 
 Acceptance of any prods after this deadline cannot be guaranteed and could only in theory be considered if the prod is delivered along with a perferable 1920x1080 or else 1280x720 video recording that works in VLC.
 
-You will be able to submit your entry in our partysystem, also as remote competitor. For remote participation you don't need to buy a ticket.
+You will be able to submit your entry in our partysystem, also as remote competitor. For remote participation you don't need to buy a ticket. If you win a compo you can ask someone thats present at the party to claim your price. We won't sent any prices to remote winners (sorry).
 
 You can send your remote entry via [wuhu](https://party.outlinedemoparty.nl/)
 
