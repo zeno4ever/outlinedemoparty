@@ -62,3 +62,7 @@ Who is coming to Outline? Check out if your friends are also coming!
 * TMC. / ROLE
 * aldroid / slipstream
 * Mrs Beanbag / Slipstream ^ Rift
+* teadrinker
+* Cookie / Poobrain
+* Plex / BionFX
+* Imagician / BionFX

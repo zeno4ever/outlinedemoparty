@@ -15,3 +15,8 @@ toc: false
 <a href="https://www.ragesquid.com">
   <img src="/image/ragesquid.png"  width="350" height="350">
 </a>
+
+<a href="https://nicepixel.se/">
+  <img src="/image/pixel_art.jpg"  width="350">
+</a>
+

@@ -14,28 +14,32 @@ toc: false
 
 * 16:00 DOORS OPEN Opening
 * 18:00  FOOD  
-* 23:00  ACT  
+* 21:00  ACT
+* 23:00  ACT  Cmdr. Homer
 
 # FRIDAY MAY 10th
 
-* 10:00 FOOD Breakfast
-* 13:00  ACT  
-* 15:00  ACT  
-* 17:00  ACT  .
+* 10:00 FOOD Breakfast + dj set Roeltje  
+* 11:00  ACT  Melkbeen en Haatgebraad
+* 13:00  ACT  Klandox
+* 15:00  ACT  Numtek
+* 17:00  ACT  Beftex
 * 19:00  FOOD  
-* 19:00  COMPO  Music (all compos)
-* 21:00  COMPO  Graphics (all compos)
+* 19:00  COMPO  Music/Photo
+* 21:00  COMPO  Graphics/Executable Graphics
 * 22:00  LIVE CODING  Byte Jam (subject to change)
-* 23:00  ACT  
+* 23:00  ACT  Roccow
 
 # SATURDAY MAY 11th
 
 * 10:00 FOOD Breakfast
-* 15:00  ACT  
+* 11:00  ACT  Zoo-time
+* 13:00  ACT  Nodepond
+* 15:00  ACT  datucker
 * 17:00  ACT  
 * 18:00  FOOD  
-* 18:00  COMPO  
-* 19:00  ACT  
+* 18:30  COMPO  Wild/Animation
+* 19:00  ACT  Gasman
 * 21:00  COMPO  Executable compos (256b)
 * 22:00  COMPO  Executable compos (128b)
 * 23:00  COMPO  Executable compos (Demos)

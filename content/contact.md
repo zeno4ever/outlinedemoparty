@@ -24,7 +24,7 @@ You can email us at : contact [at] outlinedemoparty [dot] nl
 
 ### Demoscene blogs
 
-* [Demozoo](https://demozoo.org/parties/series/53/)
+* [Demozoo](https://demozoo.org/parties/4889/)
 * [Pouet BBS](https://www.pouet.net/party.php?which=652)
 
 ### Legal data
