@@ -66,3 +66,10 @@ Who is coming to Outline? Check out if your friends are also coming!
 * Cookie / Poobrain
 * Plex / BionFX
 * Imagician / BionFX
+* Radn
+* Fleshlight / Poo-Brain
+* TheBat / Guideline
+* BetA / Guideline
+* Ren Höek / Guideline
+* Tibs ^Poo-Brain
+* RamonB5^DESiRE
