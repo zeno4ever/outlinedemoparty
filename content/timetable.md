@@ -8,9 +8,9 @@ menu: main
 weight: 120
 toc: false 
 ---
+All times in CEST (Europe/Amsterdam) timezone.
 <span id="jtzr-ui">Party Timezone is UTC+1</span>
 
-All times in CEST (Europe/Amsterdam) timezone.
 # THURSDAY MAY 9th
 
 <span data-jtzr-date="2024-05-09"></span>
@@ -23,9 +23,9 @@ All times in CEST (Europe/Amsterdam) timezone.
 # FRIDAY MAY 10th
 
 <span data-jtzr-date="2024-05-10"></span>
-* 11:00  OMMENtje with superogue & Blossem (hike in the area)
 
 * <span class="jtzr-time">10:00</span> FOOD Breakfast + dj set Roeltje  
+* <span class="jtzr-time">11:00</span>  OMMENtje with superogue & Blossem (hike in the area)
 * <span class="jtzr-time">11:00</span> ACT  Melkbeen en Haatgebraad
 * <span class="jtzr-time">12:00</span> DEADLINE for Friday's compos
 * <span class="jtzr-time">13:00</span> ACT  Klandox
@@ -40,9 +40,8 @@ All times in CEST (Europe/Amsterdam) timezone.
 # SATURDAY MAY 11th
 
 <span data-jtzr-date="2024-05-11"></span>
-* 11:00  OMMENtje with superogue & Blossem (hike in the area)
-
 * <span class="jtzr-time">10:00</span> FOOD Breakfast
+* <span class="jtzr-time">11:00</span>  OMMENtje with superogue & Blossem (hike in the area)
 * <span class="jtzr-time">11:00</span> ACT  Zoo-time
 * <span class="jtzr-time">12:00</span> DEADLINE for Saturday's compos
 * <span class="jtzr-time">13:00</span> ACT  Nodepond
