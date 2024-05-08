@@ -10,6 +10,7 @@ toc: false
 ---
 <span id="jtzr-ui">Party Timezone is UTC+1</span>
 
+All times in CEST (Europe/Amsterdam) timezone.
 # THURSDAY MAY 9th
 
 <span data-jtzr-date="2024-05-09"></span>
@@ -22,6 +23,7 @@ toc: false
 # FRIDAY MAY 10th
 
 <span data-jtzr-date="2024-05-10"></span>
+* 11:00  OMMENtje with superogue & Blossem (hike in the area)
 
 * <span class="jtzr-time">10:00</span> FOOD Breakfast + dj set Roeltje  
 * <span class="jtzr-time">11:00</span> ACT  Melkbeen en Haatgebraad
@@ -38,6 +40,7 @@ toc: false
 # SATURDAY MAY 11th
 
 <span data-jtzr-date="2024-05-11"></span>
+* 11:00  OMMENtje with superogue & Blossem (hike in the area)
 
 * <span class="jtzr-time">10:00</span> FOOD Breakfast
 * <span class="jtzr-time">11:00</span> ACT  Zoo-time
