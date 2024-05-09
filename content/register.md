@@ -21,10 +21,13 @@ toc: false
 
 ## Registration form
 
+#### Ticket shop is closed., You can still buy day tickets on location.
+
+
 If you want to participate remote and want to be on the visitor list you can also sent us an email, no need to register and buy anything. Remotes can't vote, thats a perk for the people that visit us. Our email is contact [at] outlinedemoparty [dot] nl . 
 
 You can send your remote entry via [wuhu](https://party.outlinedemoparty.nl/)
 
-<div class="iframe-container" style="display: flex; justify-content: center;  align-items: center;">
+<!-- div class="iframe-container" style="display: flex; justify-content: center;  align-items: center;">
     <iframe  src="https://docs.google.com/forms/d/e/1FAIpQLSfD05xusL6lHLk5gRB5qR8BMkWaX33cB7wLJJxopmmwhJkUAg/viewform?embedded=true" width="640" height="1622" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
 </dev>
